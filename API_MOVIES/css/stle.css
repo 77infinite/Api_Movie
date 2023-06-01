@@ -1,0 +1,13 @@
+#moviesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.movie{
+    margin: 10px;
+    width: 200px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
